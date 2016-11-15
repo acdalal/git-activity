@@ -279,3 +279,9 @@ _Are we doing this in reverse alphabetical order?_ _Apparently not_
 	* Email: nakazawam@berea.edu
 	* GitHub: mario-nakazawa
 	* IRC: nakazawa
+	
+* Amy Csizmar Dalal, Carleton College
+	* Email: adalal@carleton.edu
+	* GitHub: acdalal
+	* IRC: adalal
+	* Twitter: @drcsiz
